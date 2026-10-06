@@ -1,0 +1,131 @@
+[
+  {
+    "id": "INT-001",
+    "name": "Ayesha Khan",
+    "email": "ayesha.khan@example.com",
+    "phone": "+92 300 1111111",
+    "department": "Web Development",
+    "role": "Frontend Intern",
+    "status": "Active",
+    "progress": 78,
+    "startDate": "2026-07-01",
+    "endDate": "2026-10-01",
+    "mentor": "Sarah Ahmed",
+    "location": "Lahore, Pakistan",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "tasksCompleted": 18,
+    "tasksTotal": 24
+  },
+  {
+    "id": "INT-002",
+    "name": "Hamza Ali",
+    "email": "hamza.ali@example.com",
+    "phone": "+92 301 2222222",
+    "department": "Backend Development",
+    "role": "Node.js Intern",
+    "status": "Active",
+    "progress": 64,
+    "startDate": "2026-07-10",
+    "endDate": "2026-10-10",
+    "mentor": "Usman Raza",
+    "location": "Islamabad, Pakistan",
+    "skills": [
+      "Node.js",
+      "Express",
+      "REST API",
+      "MongoDB"
+    ],
+    "tasksCompleted": 15,
+    "tasksTotal": 23
+  },
+  {
+    "id": "INT-003",
+    "name": "Maham Iqbal",
+    "email": "maham.iqbal@example.com",
+    "phone": "+92 302 3333333",
+    "department": "UI/UX Design",
+    "role": "UI/UX Intern",
+    "status": "Completed",
+    "progress": 100,
+    "startDate": "2026-05-01",
+    "endDate": "2026-08-01",
+    "mentor": "Hina Malik",
+    "location": "Karachi, Pakistan",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "tasksCompleted": 30,
+    "tasksTotal": 30
+  },
+  {
+    "id": "INT-004",
+    "name": "Ali Hassan",
+    "email": "ali.hassan@example.com",
+    "phone": "+92 303 4444444",
+    "department": "Data Science",
+    "role": "Data Analyst Intern",
+    "status": "Active",
+    "progress": 56,
+    "startDate": "2026-08-01",
+    "endDate": "2026-11-01",
+    "mentor": "Dr. Ahmed",
+    "location": "Gujrat, Pakistan",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Excel",
+      "Statistics"
+    ],
+    "tasksCompleted": 12,
+    "tasksTotal": 22
+  },
+  {
+    "id": "INT-005",
+    "name": "Zainab Fatima",
+    "email": "zainab.fatima@example.com",
+    "phone": "+92 304 5555555",
+    "department": "Marketing",
+    "role": "Digital Marketing Intern",
+    "status": "On Hold",
+    "progress": 42,
+    "startDate": "2026-06-15",
+    "endDate": "2026-09-15",
+    "mentor": "Maria Noor",
+    "location": "Rawalpindi, Pakistan",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Content Writing"
+    ],
+    "tasksCompleted": 8,
+    "tasksTotal": 19
+  },
+  {
+    "id": "INT-006",
+    "name": "Usman Tariq",
+    "email": "usman.tariq@example.com",
+    "phone": "+92 305 6666666",
+    "department": "Mobile Development",
+    "role": "React Native Intern",
+    "status": "Active",
+    "progress": 71,
+    "startDate": "2026-07-20",
+    "endDate": "2026-10-20",
+    "mentor": "Bilal Ahmed",
+    "location": "Faisalabad, Pakistan",
+    "skills": [
+      "React Native",
+      "JavaScript",
+      "Expo"
+    ],
+    "tasksCompleted": 17,
+    "tasksTotal": 24
+  }
+]
